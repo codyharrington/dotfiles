@@ -22,3 +22,4 @@ if [ -d "$HOME/bin" ] ; then
 fi
 
 export SCRIPTS="/usr/local/bin"
+backupfiles ~/.* ~/git/dotfiles >/dev/null
