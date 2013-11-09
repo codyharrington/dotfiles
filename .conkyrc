@@ -1,0 +1,9 @@
+out_to_console yes
+out_to_x no
+background no
+update_interval 1
+total_run_times 0
+use_spacer none
+
+TEXT
+$mpd_smart CPU cores: ${cpu cpu1}% ${cpu cpu2}%  |  Load averages: ${loadavg 1} ${loadavg 2 3}  |  Temperature: ${acpitemp}c  |  RAM: $memperc% ($mem)  |  Download/Upload: ${downspeed eth1}K/s ${upspeed eth1}K/s  |  ${time %a %b %d %I:%M%P}

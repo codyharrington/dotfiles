@@ -1,0 +1,492 @@
+Xsession: X session started for cody at Sat Nov  9 05:51:17 NZDT 2013
+localuser:cody being added to access control list
+Setting IM through im-switch for locale=en_GB.
+Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
+dwm: missing fontset: ISO10646-1
+dwm: missing fontset: JISX0201.1976-0
+dwm: missing fontset: GB2312.1980-0
+dwm: missing fontset: KSC5601.1987-0
+dwm: missing fontset: JISX0208.1983-0
+dwm: missing fontset: ISO8859-15
+dwm: missing fontset: ISO8859-14
+dwm: missing fontset: ISO8859-13
+dwm: missing fontset: ISO8859-9
+dwm: missing fontset: ISO8859-7
+dwm: missing fontset: KOI8-R
+dwm: missing fontset: ISO8859-5
+dwm: missing fontset: ISO8859-4
+dwm: missing fontset: ISO8859-3
+dwm: missing fontset: ISO8859-2
+dwm: missing fontset: ISO8859-1
+dwm: missing fontset: ISO8859-1
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+NOTE: child process received `Goodbye', closing down
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+NOTE: child process received `Goodbye', closing down
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:12160): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+NOTE: child process received `Goodbye', closing down
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+
+(firefox:12160): Gtk-CRITICAL **: IA__gtk_clipboard_get_for_display: assertion `!display->closed' failed
+
+(firefox:12160): Gtk-CRITICAL **: IA__gtk_clipboard_get_for_display: assertion `!display->closed' failed
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+NOTE: child process received `Goodbye', closing down
+dmenu: warning: cannot load font '-*-terminus-medium-r-*-*-20-*-*-*-*-*-*-*'
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): Gdk-CRITICAL **: IA__gdk_window_get_events: assertion `GDK_IS_WINDOW (window)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_ref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:11164): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:blank)
+Could not check applicable rules for about:blank
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab
+uri.host is explosive!
+(about:newtab)
+Could not check applicable rules for about:newtab

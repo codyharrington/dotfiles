@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecentFiles>
+  <RecentItem>
+    <URI>file:///home/cody/prog/Python/dpt_search.py</URI>
+    <Mime-Type>text/x-python</Mime-Type>
+    <Timestamp>1364705432</Timestamp>
+    <Private>dpt_search.py</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/CPU.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>CPU.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/InstructionSet/Tests/MovTest.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>MovTest.cs [InstructionSet]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/Operand.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>Operand.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/AssemblyInfo.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>AssemblyInfo.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/Parser.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>Parser.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/X86OperandFactory.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>X86OperandFactory.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/Immediate.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261023</Timestamp>
+    <Private>Immediate.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Sources/Memory.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1359261022</Timestamp>
+    <Private>Memory.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor.sln</URI>
+    <Mime-Type>application/x-sln</Mime-Type>
+    <Timestamp>1359261021</Timestamp>
+    <Private>Tutor</Private>
+    <Groups>
+      <Group>MonoDevelop Projects</Group>
+    </Groups>
+  </RecentItem>
+  <RecentItem>
+    <URI>file:///home/cody/git/AsmTutor/AsmTutor/Tutor/CPUArchitecture/CPU/Interfaces/ICpuExecutable.cs</URI>
+    <Mime-Type>text/x-csharp</Mime-Type>
+    <Timestamp>1358928216</Timestamp>
+    <Private>ICpuExecutable.cs [CPUArchitecture]</Private>
+    <Groups>
+      <Group>MonoDevelop Files</Group>
+    </Groups>
+  </RecentItem>
+</RecentFiles>

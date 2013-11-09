@@ -1,0 +1,39 @@
+#! /bin/bash
+# My custom dwm script
+
+POLLDELAY=1
+# Status bar internet
+ip()
+(
+	ip=$(ifconfig eth0| grep "inet A"|cut -d: -f2 | cut -d" " -f 1)
+	echo "eth0:${ip}"
+)
+
+# Status bar time and date
+timedate()
+(	
+	echo $(date +"%F %R")
+)
+
+# Status bar battery
+battery()
+(
+	echo $(acpi -b | awk 'sub(/,/,"") {print $3, $4}')
+)
+
+# Kill any rogue .xsession processes
+for i in $(pidof -x .xsession)
+do
+	if [ "$i" -ne "$$" ]; then
+		kill -9 $i
+	fi
+done
+
+# Display the status bar
+while true ; do
+	xsetroot -name "$(ip) $(timedate) $(battery)"
+	sleep $POLLDELAY
+done &
+
+# Start dwm
+exec /usr/local/bin/dwm

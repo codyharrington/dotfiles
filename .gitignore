@@ -1,0 +1,11 @@
+*.swp
+*authority
+*.lock
+*mysql
+*cookie
+*history
+*cache
+*auth
+*steam*
+.face
+.gitconfig
