@@ -1,7 +1,10 @@
 #! /bin/bash
 # dwm status bar script
 
+# How often to update the status bar
 POLLDELAY=0.5
+# Battery low threshold
+BATTERYLOW=90
 
 # Get network down/up speeds
 ip()
@@ -19,7 +22,13 @@ timedate()
 # Print battery status, charge and time remaining
 battery()
 (
-	echo $(acpi -b | awk '{sub(/,/, ""); sub(/%,/, "%"); printf "%s %s (%s %s %s)", $3,$4,$5,$6,$7,$8}' | sed 's/ )/)/g')
+	# Get the battery string
+	returnstring=$(acpi -b | awk '{sub(/,/, ""); sub(/%,/, "%"); printf "%s %s (%s %s %s)", $3,$4,$5,$6,$7,$8}' | sed 's/ )/)/g')
+	powerlevel=$(echo $returnstring | awk '{ sub(/%/, ""); print $2 }')
+	status=$(echo $returnstring | awk '{ print $1 }')
+
+	# TODO add battery low warning
+	echo $returnstring
 )
 
 # Get CPU temps
@@ -38,6 +47,12 @@ cpufreq()
 memory()
 (
 	echo $(free | awk '/Mem/ {printf "%d MB/%d MB (%d MB free)\n", $3 / 1024.0, $2 / 1024.0, $4 / 1024.0 }')
+)
+
+# Get volume level
+volume()
+(
+	echo $(amixer get Master playback | awk '/Mono:/ { print $4 }')
 )
 
 # Kill any rogue .xsession processes
