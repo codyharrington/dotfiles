@@ -23,3 +23,4 @@ fi
 
 export SCRIPTS="/usr/local/bin"
 backupfiles ~/.* ~/git/dotfiles >/dev/null
+export NODE_ENV=development

@@ -10,4 +10,5 @@
 .face
 .gitconfig
 .viminfo
-.xsession-errors*
+.xsession-errors
+.lesshst

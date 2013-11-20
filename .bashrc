@@ -107,3 +107,9 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 archey
+
+source /usr/share/git/completion/git-completion.bash
+source /usr/share/git/completion/git-prompt.sh
+export GIT_PS1_SHOWDIRTYSTATE=true
+export GIT_PS1_SHOWUNTRACKEDFILES=true
+export PS1='\h:\W$(__git_ps1 " [\[\e[0;32m\]%s\[\e[0m\]]")\$ '
